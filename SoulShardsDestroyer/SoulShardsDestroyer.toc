@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: SoulShards Destroyer - |cFF6EFF91Zjadlbymc0s|r
+## SavedVariablesPerCharacter: LimitSoulShards
+## Notes: When you have too many Soul Shards in your bags then destroy the excessive Soul Shards.
+## Author: Zjadlbymc0s
+## Version: 1.0
+SoulShardsDestroyer.lua
