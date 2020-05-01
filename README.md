@@ -1,6 +1,6 @@
 # SoulShardsDestroyer
 
-AUTHOR: Zjadlbymc0s
+AUTHOR: Zjadlbymc0s<br />
 GitHub: https://github.com/Zjadlbymc0s
 
 # Commands for Addon: 
