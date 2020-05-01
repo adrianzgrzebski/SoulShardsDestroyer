@@ -3,7 +3,7 @@
 AUTHOR: Zjadlbymc0s
 GitHub: https://github.com/Zjadlbymc0s
 
-#Commands for Addon: 
+# Commands for Addon: 
 	/ssd 
 		(display help info)
 	/ssd set X
@@ -11,7 +11,7 @@ GitHub: https://github.com/Zjadlbymc0s
 	/ssd check
 		(check the limit)
 		
-#Screenshoots
+# Screenshoots
 		
 ![ssd](https://user-images.githubusercontent.com/36198797/80830755-d5dea300-8be9-11ea-96f8-9225a15caad8.jpg)
 ![ssd_check1](https://user-images.githubusercontent.com/36198797/80830842-00306080-8bea-11ea-81ea-a4a15293aaa2.jpg)
