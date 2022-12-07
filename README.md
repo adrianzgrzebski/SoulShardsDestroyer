@@ -1,8 +1,6 @@
 # SoulShardsDestroyer
 An addon for Warlock (World of Warcraft) that destroy the excessive Soul Shards.<br />
 
-Author: Zjadlbymc0s<br />
-
 # Commands for Addon: 
 	/ssd 
 		(display help info)
