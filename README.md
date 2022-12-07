@@ -2,7 +2,6 @@
 An addon for Warlock (World of Warcraft) that destroy the excessive Soul Shards.<br />
 
 Author: Zjadlbymc0s<br />
-GitHub: https://github.com/Zjadlbymc0s
 
 # Commands for Addon: 
 	/ssd 
